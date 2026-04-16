@@ -21,7 +21,7 @@ let animationFrameId = null;
 
 // Configuration
 // const WS_URL = 'ws://localhost:8000'; // Update this if your backend is hosted elsewhere
-const WS_URL = 'wss://aurora-backend-434142152947.northamerica-northeast2.run.app'; // For cloud
+const WS_URL = 'wss://aurora-backend-gpu-434142152947.us-east4.run.app'; // For cloud
 
 // Initialize App
 function init() {
